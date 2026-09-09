@@ -37,7 +37,7 @@ app.post("/commit", async (req, res) => {
     res.json({ success: true, committed: { key, value } });
 });
 
-// Get all committed states
+// Get all commited states
 app.get("/states", async (req, res) => {
     try {
         const states = await StateModel.find().sort({ _id: -1 }).limit(20);
