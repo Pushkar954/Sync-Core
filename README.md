@@ -293,14 +293,6 @@ Browse Collections → `consensus` → `states` → committed document visible w
 
 ---
 
-## 👥 Team
 
-| Name | Role |
-|---|---|
-| **Samarth Keshari** | Raft consensus logic & leader election |
-| **Raghvendra Chauhan** | Express.js proposal API & routing |
-| **Pushkar Sharma** | MongoDB Atlas integration & state schema |
-| **Rachna Kumari** | Shell scripting & cluster orchestration |
-| **Priyanshu** | System architecture & Git configuration tracking |
 
----
+
